@@ -4,7 +4,7 @@
 
 ## Task 1
 - Buat sambungan jaringan antara netics-pc-1 dan netics-pc-2
-  !imagealt[https://github.com/xaldinzz/image/blob/main/Screenshot%202025-09-16%20131754.png?raw=true]
+  ![imagealt](https://github.com/xaldinzz/image/blob/main/Screenshot%202025-09-16%20131754.png?raw=true)
   
 - Set IP address di masing-masing interface di masing-masing pc
 - Cek ip address masing-masing di netics-pc-1 dan netics-pc-2 dengan
